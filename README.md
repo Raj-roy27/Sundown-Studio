@@ -1,45 +1,33 @@
-#Sundown Studio
+# Sundown Studio
 
-<img width="1896" height="909" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/cc62ec31-89f6-414a-9058-c6395a2fb3a1" />
+## Project Overview  
+Sundown Studio is a multi-page animated website crafted with modern frontend technologies including HTML, CSS, JavaScript, SwiperJS, and LocomotiveJS. It delivers an engaging user experience through smooth transitions, interactive sliders, and seamless navigation across multiple sections.
+
+<img width="1896" height="909" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/d72f9fb9-f36c-4c86-a1b9-6a98e41de793" />
 
 
+## Features  
+- Multi-page layout for organized content navigation  
+- Smooth scrolling and animation effects powered by LocomotiveJS  
+- Responsive and interactive sliders built with SwiperJS  
+- Visually dynamic and user-friendly interface  
+- Fully responsive design optimized for various devices  
+- Clean, semantic coding with HTML, CSS, and JavaScript
 
-Project Overview
-Sundown Studio is a multi-page animated website developed using modern frontend technologies including HTML, CSS, JavaScript, SwiperJS, and LocomotiveJS. The project showcases a dynamic and engaging user experience through smooth transitions, interactive sliders, and seamless navigation across multiple sections.
+## Technologies Used  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- [SwiperJS](https://swiperjs.com/)  
+- [LocomotiveJS](https://locomotivemtl.github.io/locomotive-scroll/)
 
-Features
-Multi-page functionality for clear content organization
+## Installation & Usage  
+1. Clone the repository:  
+git clone - https://github.com/Raj-roy27/Sundown-Studio
+2. Open `index.html` in a web browser to view the project.  
+3. For full functionality, use a local development server or live server extension.
 
-Smooth scrolling and animated effects powered by LocomotiveJS
+## Contribution  
+Contributions are welcome! Please open issues or submit pull requests for enhancements or bug fixes.
 
-Interactive, responsive sliders implemented with SwiperJS
-
-Visually appealing and dynamic user interface
-
-Fully responsive design compatible with various devices
-
-Developed with clean, semantic HTML, CSS, and JavaScript
-
-Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-SwiperJS (for slider/carousel functionality)
-
-LocomotiveJS (for smooth scrolling and scroll-based animations)
-
-Installation & Usage
-Clone the repository to your local machine:
-
-bash
-git clone https://github.com/yourusername/sundown-studio.git  
-Open index.html in your preferred browser to view the site.
-
-For development, use a live server extension or local server setup to experience full functionality.
-
-Contribution
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
