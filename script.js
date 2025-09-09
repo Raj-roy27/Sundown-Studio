@@ -61,6 +61,16 @@ function page4Effect() {
 }
 
 
+ var swiper = new Swiper(".mySwiper", {
+      slidesPerView: "auto",
+      centeredSlides: true,
+      spaceBetween: 40,
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+    });
+
 
 page3Effect();
 page4Effect();

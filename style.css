@@ -358,7 +358,7 @@ nav .nav-list h4:hover a {
   text-align: justify;
   gap: 2vw;
   justify-content: center;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
 }
 
 .page4-container img {
@@ -372,12 +372,55 @@ nav .nav-list h4:hover a {
 .fade-out {
   opacity: 0;
 }
+.page5 {
+  width: 100%;
+  height: 70vh;
+  background-color: #efeae3;
+  position: relative;
+  padding: 8vw 2vw;
+}
 
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  width: 30%;
+  border-left: 1px solid #696868;
+  padding: 0 2vw;
+}
+.swiper-slide p{
+  width: 80%;
+  text-align: justify;
+  font-size: 1vw;
+  font-weight: 200;
+  line-height: 1.3vw;
+  /* background-color: #fe320a; */
+  margin-top: 2vw;
+}
+
+
+.page5 h4 {
+  padding: 2vw 2vw;
+  font-size: 1.2vw;
+  font-weight: 200;
+  display: flex;
+  gap: 0.5vw;
+  align-items: center;
+}
+.page5 h4 span {
+  display: flex;
+  align-items: center;
+}
+.page5 h4 img {
+  width: 1.2vw;
+}
 .detail-1 {
   position: relative;
   border-left: 2px solid #504a45;
   padding-left: 2vw;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
 }
 .detail-1 h2 {
   font-size: 4vw;
@@ -385,13 +428,13 @@ nav .nav-list h4:hover a {
   position: relative;
   cursor: pointer;
   color: #504a45;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
 }
-h2#design{
+h2#design {
   color: #efeae3;
   right: 2vw;
 }
-.detail-2 p{
+.detail-2 p {
   font-size: 1vw;
   font-weight: 400;
   color: #efeae3;
